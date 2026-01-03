@@ -1,0 +1,381 @@
+22:38:06.609 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:38:06.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+22:38:06.828 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+22:38:07.012 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:38:13.185 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:38:13.188 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 7e2c5787-a683-4cc5-b535-6b493925db00
+22:38:13.188 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:38:13.252 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:38:13.257 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:38:13.257 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:38:16.181 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:38:16.181 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:38:16.181 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:38:16.196 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:38:20.172 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:38:21.105 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: uynjcfgb2tpngix5bki5up7ydqckgucnoznp7ga7
+22:38:21.105 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:38:21.105 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:38:28.508 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:38:35.223 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/uynjcfgb2tpngix5bki5up7ydqckgucnoznp7ga7 to view build report, insights, and many more debugging information all at one place!
+
+22:38:35.223 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:38:35.224 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:38:37.572 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Attempting to delete directory: C:\Users\pcc\.browserstack\UploadedAttachments-38
+22:38:37.582 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Deleted directory: C:\Users\pcc\.browserstack\UploadedAttachments-38
+22:38:37.583 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Attempting to delete directory: C:\Users\pcc\.browserstack\UploadedAttachments-39
+22:38:37.588 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Deleted directory: C:\Users\pcc\.browserstack\UploadedAttachments-39
+22:38:37.588 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Attempting to delete directory: C:\Users\pcc\.browserstack\UploadedAttachments-40
+22:38:37.591 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Deleted directory: C:\Users\pcc\.browserstack\UploadedAttachments-40
+22:38:37.591 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Attempting to delete directory: C:\Users\pcc\.browserstack\UploadedAttachments-41
+22:38:37.593 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Deleted directory: C:\Users\pcc\.browserstack\UploadedAttachments-41
+22:38:37.593 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Attempting to delete directory: C:\Users\pcc\.browserstack\UploadedAttachments-42
+22:38:37.594 [Thread-0] INFO  com.browserstack.v2.SdkCLI - Deleted directory: C:\Users\pcc\.browserstack\UploadedAttachments-42
+22:38:40.080 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 7e2c5787-a683-4cc5-b535-6b493925db00, testhub id: uynjcfgb2tpngix5bki5up7ydqckgucnoznp7ga7
+22:38:40.080 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:42:15.704 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:42:15.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+22:42:15.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+22:42:16.253 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:42:23.228 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:42:23.231 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: ae8ebbe5-751b-4f98-9a68-3138dec6d559
+22:42:23.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:42:23.339 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:42:23.342 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:42:23.343 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:42:24.949 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:42:24.949 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:42:24.949 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:42:24.967 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:42:28.983 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:42:30.834 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: oivjapnnlxkmujbdnheclkprc4ed8gokixoi1opg
+22:42:30.834 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:42:30.834 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:42:36.805 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:42:42.855 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/oivjapnnlxkmujbdnheclkprc4ed8gokixoi1opg to view build report, insights, and many more debugging information all at one place!
+
+22:42:42.855 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:42:42.856 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:42:47.242 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: ae8ebbe5-751b-4f98-9a68-3138dec6d559, testhub id: oivjapnnlxkmujbdnheclkprc4ed8gokixoi1opg
+22:42:47.242 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:43:09.724 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:43:09.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+22:43:09.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+22:43:10.131 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:43:16.472 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:43:16.475 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a0d0f112-7611-4ef6-9111-2465cae0a59a
+22:43:16.476 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:43:16.620 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:43:16.625 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:43:16.625 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:43:18.003 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:43:18.004 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:43:18.004 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:43:18.016 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:43:20.787 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:43:21.479 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: dcxqlselz910djxee153qeqybh3avkfkcdhw4ulx
+22:43:21.479 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:43:21.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:43:27.915 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:43:34.829 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/dcxqlselz910djxee153qeqybh3avkfkcdhw4ulx to view build report, insights, and many more debugging information all at one place!
+
+22:43:34.829 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:43:34.830 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:43:39.393 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: a0d0f112-7611-4ef6-9111-2465cae0a59a, testhub id: dcxqlselz910djxee153qeqybh3avkfkcdhw4ulx
+22:43:39.393 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:47:38.382 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:47:38.391 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Selenium version fetched from BuildInfo: 4.18.1
+22:47:38.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+22:47:38.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:47:38.529 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:47:41.369 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:47:41.371 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: f9e411b0-d9b0-40e2-945c-3157f34c49c8
+22:47:41.371 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:47:41.381 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:47:41.383 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:47:41.384 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:47:42.525 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:47:42.526 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:47:42.526 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:47:42.534 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:47:47.149 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:47:47.848 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: bofdwdhscza4qdy8xnw0q87au5nwbfu0bfrqxwb7
+22:47:47.848 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:47:47.848 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:47:53.504 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:47:54.050 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:47:54.056 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Selenium version fetched from BuildInfo: 4.18.1
+22:47:54.195 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:47:54.453 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 94222d55-411a-4184-8616-856a19712d4e
+22:47:54.453 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:47:54.465 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:47:54.468 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:47:54.475 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:47:55.497 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:47:55.498 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:47:55.498 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:47:55.508 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:47:57.969 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:47:58.797 [Test worker] ERROR c.b.DriverServiceTransformer - [source error] no such class: net.thucydides.model.domain.TestOutcome
+22:48:03.353 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/bofdwdhscza4qdy8xnw0q87au5nwbfu0bfrqxwb7 to view build report, insights, and many more debugging information all at one place!
+
+22:48:03.353 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:48:03.354 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:48:07.714 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: f9e411b0-d9b0-40e2-945c-3157f34c49c8, testhub id: bofdwdhscza4qdy8xnw0q87au5nwbfu0bfrqxwb7
+22:48:07.715 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:52:21.284 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:52:21.290 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Selenium version fetched from BuildInfo: 4.10.0
+22:52:21.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.10.0
+22:52:21.292 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:52:21.426 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:52:24.215 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:52:24.217 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: b859c4a2-4631-4d34-9f07-f4e14957b097
+22:52:24.217 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:52:24.226 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:52:24.229 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:52:24.229 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:52:25.594 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:52:25.594 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:52:25.594 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:52:25.605 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:52:29.317 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:52:30.357 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 3dhcgvaudschaixrybgznkfqlot3kfbsapnq8n1u
+22:52:30.357 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:52:30.357 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:52:36.101 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:52:36.619 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:52:36.624 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Selenium version fetched from BuildInfo: 4.10.0
+22:52:36.759 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:52:37.015 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 943984fe-0595-4f86-9fb4-79e9add973a4
+22:52:37.015 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:52:37.023 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:52:37.026 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:52:37.032 [main] DEBUG com.browserstack.v2.SdkCliUtils - Adding sdk_framework parameter: serenity
+22:52:37.995 [main] DEBUG com.browserstack.v2.SdkCliUtils - Received 400 Bad Request from CLI update endpoint. Disabling CLI binary flow.
+22:52:37.995 [main] DEBUG com.browserstack.v2.SdkCliUtils - CLI flow disabled. Returning null binary path.
+22:52:37.995 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: null
+22:52:38.005 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:52:40.577 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:52:41.154 [Test worker] ERROR c.b.DriverServiceTransformer - [source error] no such class: net.thucydides.model.domain.TestOutcome
+22:52:45.451 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/3dhcgvaudschaixrybgznkfqlot3kfbsapnq8n1u to view build report, insights, and many more debugging information all at one place!
+
+22:52:45.451 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:52:45.452 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:52:49.507 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: b859c4a2-4631-4d34-9f07-f4e14957b097, testhub id: 3dhcgvaudschaixrybgznkfqlot3kfbsapnq8n1u
+22:52:49.507 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:54:16.237 [main] DEBUG c.browserstack.BrowserStackJavaAgent - Extracted CLI argument from system : null
+22:54:16.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+22:54:16.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+22:54:16.646 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+22:54:22.426 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+22:54:22.428 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: ad4fee3f-3a29-4686-9f0e-a2c07c1d3a62
+22:54:22.428 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:54:22.504 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+22:54:22.507 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:54:23.626 [main] DEBUG com.browserstack.v2.SdkCliUtils - Need to update binary, current binary version: 1.8.0
+22:54:23.626 [main] DEBUG com.browserstack.v2.SdkCliUtils - Downloading SDK binary from: https://sdk-assets.browserstack.com/binary-win-x64-1.17.0.zip
+22:54:27.214 [main] DEBUG com.browserstack.v2.SdkCliUtils - Files successfully extracted to: C:\Users\pcc\.browserstack\cli
+22:54:27.218 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+22:54:27.219 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+22:54:31.466 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:54:32.281 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: j1bamaa7i0bzztui16kica6wk1rhv4mdieqyvwg7
+22:54:32.281 [main] INFO  c.b.config.BrowserStackConfig - INFO
+22:54:32.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:54:37.921 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:54:43.918 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://automation.browserstack.com/builds/j1bamaa7i0bzztui16kica6wk1rhv4mdieqyvwg7 to view build report, insights, and many more debugging information all at one place!
+
+22:54:43.918 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:54:43.919 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+22:54:48.338 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: ad4fee3f-3a29-4686-9f0e-a2c07c1d3a62, testhub id: j1bamaa7i0bzztui16kica6wk1rhv4mdieqyvwg7
+22:54:48.338 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:19.436 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+23:24:19.438 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:24:19.707 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:24:19.708 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:24:26.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+23:24:26.036 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: fda32202-6174-4b30-b9f9-461d0e3afc4e
+23:24:26.036 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:26.114 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:24:26.116 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:24:28.758 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:24:28.774 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:24:33.048 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:24:34.139 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: gbdjbqhxeqsuunacmzuoxmoa0u6lyanyqbrm31gc
+23:24:34.139 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:34.139 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:24:41.094 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:24:47.536 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gbdjbqhxeqsuunacmzuoxmoa0u6lyanyqbrm31gc to view build report, insights, and many more debugging information all at one place!
+
+23:24:47.536 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:24:47.537 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+23:24:50.489 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:24:50.489 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:24:52.349 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: fda32202-6174-4b30-b9f9-461d0e3afc4e, testhub id: gbdjbqhxeqsuunacmzuoxmoa0u6lyanyqbrm31gc
+23:24:52.349 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:25:39.357 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+23:25:39.358 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:25:39.570 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:25:39.570 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:25:45.376 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+23:25:45.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 7d74b126-ea35-4349-a025-f0183e9f53ce
+23:25:45.378 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:25:45.470 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:25:45.473 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:25:46.762 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:25:46.771 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:25:51.874 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:25:52.810 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: peomic77wepezih7mey0oazbj9wvgtqz7r6j0zzp
+23:25:52.810 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:25:52.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:25:58.169 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:26:05.810 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/peomic77wepezih7mey0oazbj9wvgtqz7r6j0zzp to view build report, insights, and many more debugging information all at one place!
+
+23:26:05.810 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:26:05.812 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+23:26:08.735 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:26:08.736 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:26:10.102 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 7d74b126-ea35-4349-a025-f0183e9f53ce, testhub id: peomic77wepezih7mey0oazbj9wvgtqz7r6j0zzp
+23:26:10.102 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:27:29.567 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+23:27:29.568 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:27:29.758 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:27:29.759 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:27:35.674 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+23:27:35.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: dd254c33-e160-4698-81aa-66ddb83b3326
+23:27:35.677 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:27:35.780 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:27:35.783 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:27:37.173 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:27:37.180 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:27:46.114 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:27:46.912 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: w1h8miexipnk8uxgfnh7e9nesrgks7vbhqquhavk
+23:27:46.912 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:27:46.912 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:27:52.289 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:27:58.183 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/w1h8miexipnk8uxgfnh7e9nesrgks7vbhqquhavk to view build report, insights, and many more debugging information all at one place!
+
+23:27:58.183 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:27:58.184 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+23:28:00.977 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:28:00.977 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:28:02.415 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: dd254c33-e160-4698-81aa-66ddb83b3326, testhub id: w1h8miexipnk8uxgfnh7e9nesrgks7vbhqquhavk
+23:28:02.415 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:29:24.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+23:29:24.774 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:29:24.774 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is C:\Users\pcc\.gradle\caches\7.4\workerMain\gradle-worker.jar;C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\build\libs\pathing-jar-1.0-SNAPSHOT.jar;C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\build\classes\java\test;C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\build\resources\test
+23:29:24.935 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:29:24.935 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:29:27.569 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+23:29:27.572 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: accdb514-9b7c-439b-814b-c7e96609a948
+23:29:27.572 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:29:27.584 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:29:27.589 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:29:39.541 [main] ERROR com.browserstack.v2.SdkCliUtils - Error in making request, httpUrl=https://api.browserstack.com/sdk/v1/update_cli?sdk_language=java&os=Windows%2010&sdk_version=1.32.12&os_arch=amd64&cli_version=1.17.0 error=java.net.UnknownHostException: Host desconocido (api.browserstack.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at browserstack.shaded.okhttp3.Dns.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.RouteSelector.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.RouteSelector.b(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.ExchangeFinder.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.ExchangeFinder.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.ExchangeFinder.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.Transmitter.a(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.connection.ConnectInterceptor.intercept(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.cache.CacheInterceptor.intercept(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.BridgeInterceptor.intercept(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at browserstack.shaded.okhttp3.RealCall.getResponseWithInterceptorChain(Unknown Source)
+	at browserstack.shaded.okhttp3.RealCall.execute(Unknown Source)
+	at com.browserstack.v2.SdkCliUtils.a(Unknown Source)
+	at com.browserstack.v2.SdkCliUtils.checkAndUpdateCli(Unknown Source)
+	at com.browserstack.v2.SdkCliUtils.setupCliPath(Unknown Source)
+	at com.browserstack.v2.SdkCLI.<clinit>(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+23:29:39.542 [main] ERROR com.browserstack.v2.SdkCliUtils - Error in setting up cli path directory, Exception: Unexpected token END OF FILE at position 0.
+	at browserstack.shaded.org.json.simple.parser.JSONParser.parse(Unknown Source)
+	at browserstack.shaded.org.json.simple.parser.JSONParser.parse(Unknown Source)
+	at browserstack.shaded.org.json.simple.parser.JSONParser.parse(Unknown Source)
+	at com.browserstack.v2.SdkCliUtils.checkAndUpdateCli(Unknown Source)
+	at com.browserstack.v2.SdkCliUtils.setupCliPath(Unknown Source)
+	at com.browserstack.v2.SdkCLI.<clinit>(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+23:29:39.550 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:29:44.782 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:29:45.946 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: x8dzk0ie0eay3zsdpjvfnwxawaa2vk9jxuzpxbpo
+23:29:45.946 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:29:45.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:29:52.350 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:29:52.973 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:29:52.974 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:29:53.230 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: b761c9bf-a932-4d92-820d-0833cfde74bc
+23:29:53.230 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:29:53.237 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:29:53.240 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:29:54.768 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:29:54.775 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:29:58.463 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:29:59.109 [Test worker] ERROR c.b.DriverServiceTransformer - [source error] no such class: net.thucydides.model.domain.TestOutcome
+23:30:03.982 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/x8dzk0ie0eay3zsdpjvfnwxawaa2vk9jxuzpxbpo to view build report, insights, and many more debugging information all at one place!
+
+23:30:03.982 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:03.983 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+23:30:06.592 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:30:06.592 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:30:09.223 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: accdb514-9b7c-439b-814b-c7e96609a948, testhub id: x8dzk0ie0eay3zsdpjvfnwxawaa2vk9jxuzpxbpo
+23:30:09.223 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:57.735 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.18.1
+23:30:57.736 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+23:30:57.928 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+23:30:57.929 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:31:04.236 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to serenity
+23:31:04.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 49ca2d07-6e21-42f6-8248-ab2d8fa4fc0b
+23:31:04.240 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:04.356 [main] DEBUG com.browserstack.v2.SdkCliUtils - File C:\Users\pcc\.browserstack already exist
+23:31:04.359 [main] DEBUG com.browserstack.v2.SdkCliUtils - Current CLI Path Found: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:31:05.572 [main] DEBUG com.browserstack.v2.SdkCliUtils - Resolved binary path: C:\Users\pcc\.browserstack\cli\binary-win-x64.exe
+23:31:05.580 [main] INFO  com.browserstack.v2.SdkCLI - Disabling Cli for framework=serenity
+23:31:09.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+23:31:10.542 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: xhozxugmpbqqpogdpuu4uehnuvesdxaccswldmbx
+23:31:10.542 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:10.543 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:31:16.247 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:31:22.566 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xhozxugmpbqqpogdpuu4uehnuvesdxaccswldmbx to view build report, insights, and many more debugging information all at one place!
+
+23:31:22.566 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:22.567 [Thread-0] INFO  com.browserstack.v2.SdkCLI - stop: cli is not running.
+23:31:25.411 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:31:25.411 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pcc\Documents\Archivos personales\ARANDA\Documentos\SofTestPrueba-main\SofTestPrueba-main\browserstack.yml
+23:31:27.273 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 49ca2d07-6e21-42f6-8248-ab2d8fa4fc0b, testhub id: xhozxugmpbqqpogdpuu4uehnuvesdxaccswldmbx
+23:31:27.273 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
